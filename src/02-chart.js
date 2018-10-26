@@ -1,7 +1,7 @@
 import * as d3 from 'd3'
 import { debounce } from 'debounce'
 
-let margin = { top: 100, left: 50, right: 100, bottom: 50 }
+let margin = { top: 100, left: 50, right: 120, bottom: 50 }
 
 let height = 700 - margin.top - margin.bottom
 
